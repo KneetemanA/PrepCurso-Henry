@@ -1,2 +1,1 @@
-# PrepCurso-Henry
-Repositorio de prueba del modulo dos
+Este repositorio es una prueba de como clonar un repositorio de github a mi escritorio
